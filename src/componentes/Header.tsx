@@ -2,7 +2,7 @@ import './Header.css'
 
 function Header(){
     return(
-        <header>
+    <header>
          <div className="logo">1022 A</div>
          <nav>
             <ul>
@@ -17,7 +17,7 @@ function Header(){
                 </li>
             </ul>
          </nav>
-        </header>
+    </header>
     )
 }
 export default Header;

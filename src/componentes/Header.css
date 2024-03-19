@@ -1,7 +1,7 @@
 header{
     height: 20rem;
     background-color: aquamarine;
-    color:beige;
+    color:rgb(0, 0, 0);
     display: flex;
     padding: 0px 5vw;
     align-items: center;
@@ -19,7 +19,7 @@ header nav ul{
   gap: 1rem;
 }
 header nav ul li a{
-    color:beige;
+    color:rgb(0, 0, 0);
     text-decoration: none;
     border: 0.1rem solid beige;
     border-radius: 0.2rem;
